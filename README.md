@@ -1,6 +1,4 @@
-# python
-
-MERGE CSV FILES FROM FOLDER
+#MERGE CSV files from FOLDER Into masterfile
 
 - This python program loops through the directory
 - checks for .CSV files
