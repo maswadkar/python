@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-
+#returns the link of the result found.
 def getlink(search_string):
     result = []
     browser = webdriver.Chrome('/usr/local/bin/chromedriver')
