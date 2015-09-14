@@ -15,11 +15,10 @@ MERGE CSV FILES FROM FOLDER
 
 
 TIPS:
-= Paths for landingZone folder is hardcoded
-= Paths for master.csv file is hardcoded.
+- Paths for landingZone folder is hardcoded
+- Paths for master.csv file is hardcoded.
     - This was done for my comfort level. This can very easily be changed by sending the line argument parameters.
     - The code is ready but I do not want to push it, because it is then difficult to DEBUG and test.
 
 for any suggestions and comments please write me
 vivek@maswadkar.com
-#maswadkar
