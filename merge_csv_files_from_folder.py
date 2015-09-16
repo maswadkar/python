@@ -7,8 +7,8 @@ __author__ = 'vivek maswadkar'
 
 import os
 
-landingzone = '/Users/mbp/Python/landingzone'
-master_file = '/Users/mbp/Python/done/master.csv'
+landingzone = '/Users/mbp/Python/appendcolumn'
+master_file = '/Users/mbp/Python/done/secondprocessing.csv'
 
 
 # this function verifies the number of columns in the master file and the file to be processed are same.
